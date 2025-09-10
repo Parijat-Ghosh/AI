@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+
+/* @import 'highlight.js/styles/github-dark.css'; */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css');
+/* For fixed sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 4rem; /* 64px, adjust as needed */
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 0;
+  gap: 1.5rem; /* Fixed spacing between icons */
+  overflow: hidden; /* Prevent internal scrolling */
+}
+
+/* Ensure no stretching */
+.sidebar button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+/* For sticky input */
+.sticky {
+  position: sticky;
+  bottom: 0;
+  z-index: 10; /* Above scrolling content */
+}
+
+/* Scrollable main area */
+.overflow-y-auto {
+  overflow-y: auto;
+  scrollbar-width: thin; /* Slim scrollbar */
+}
+
+/* If needed, hide scrollbars or style them */
+.overflow-y-auto::-webkit-scrollbar {
+  width: 6px;
+}
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+}
+
+/* .history-item:hover {
+  background: #3c3c3c;
+  transform: scale(1.03);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+}
+.history-item:active {
+  background: #272727;
+} */
