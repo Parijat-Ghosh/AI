@@ -44,7 +44,7 @@ Everyday tasks like summarizing articles, planning projects, or analyzing visual
 ## 💡 Product Overview 
 
 ![Landing Page](screenshots/landing.png)  
-*Landing page built with **ReactJS**
+*Landing page built with **ReactJS***
 
 ![Chat Interface](screenshots/chat-interface.png)  
 *Main chat view with greeting, prompt suggestions, and message input.*
