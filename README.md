@@ -61,7 +61,7 @@ Everyday tasks like summarizing articles, planning projects, or analyzing visual
 ![Pricing Plans](screenshots/pricing-plans.png)  
 *Subscription options, having payment integration using **Razorpay**.*
 
-![Sign Up Page](screenshots/signup.png)  
+![Sign Up Page](screenshots/create-account.png)  
 *Simple form for creating an account. Signup and login are controlled using **JWT**.*
 
 
