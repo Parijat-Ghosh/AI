@@ -41,27 +41,29 @@ Everyday tasks like summarizing articles, planning projects, or analyzing visual
 - **Payments**: Razorpay SDK for secure transactions.  
 - **Other**: Highlight.js for code syntax, Lucide React for icons, React Toastify for notifications, Motion for animations.
 
-## 📸 **Screenshots**
+## 💡 Product Overview 
+
 ![Landing Page](screenshots/landing.png)  
-*Welcome screen with "Your personal assistant" tagline and Get Started button.*
+*Landing page built with **ReactJS**
 
 ![Chat Interface](screenshots/chat-interface.png)  
 *Main chat view with greeting, prompt suggestions, and message input.*
 
-![Chat History](screenshots/writing-code.png)  
+![Code Syntax Highlighting](screenshots/writing-code.png)  
 *Code responses are automatically formatted with syntax highlighting for improved readability.*
 
 ![Chat History](screenshots/chat-history.png)  
-*Sidebar showing conversation history with delete options.*
+*Sidebar showing conversation history with delete options. Chat history is stored in **MongoDB Atlas**.*
 
 ![Image Analysis Example](screenshots/image-analysis.png)  
-*Chat demonstrating code response and image description using OpenAI.*
+*Chat demonstrating code response and image description using **OpenAI**. Images are stored in **Cloudinary**.*
 
 ![Pricing Plans](screenshots/pricing-plans.png)  
-*Subscription options: Starter (₹5/mo), Creator (₹6/mo), Enterprise (₹7/mo).*
+*Subscription options, having payment integration using **Razorpay**.*
 
 ![Sign Up Page](screenshots/signup.png)  
-*Simple form for creating an account.*
+*Simple form for creating an account. Signup and login are controlled using **JWT**.*
+
 
 
 
