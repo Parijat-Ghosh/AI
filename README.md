@@ -7,10 +7,19 @@
 [![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen.svg)](https://david-dm.org/Parijat-Ghosh/AI) <!-- Manual check or set up David DM -->
 [![MERN Stack](https://img.shields.io/badge/Tech-MERN%20Stack-blueviolet.svg)](https://mern.io/) <!-- Custom text badge -->
 
-**Your personal AI assistant: Chat, analyze images, and boost productivity with secure, subscription-powered features.**  
-Built with MERN stack and OpenAI API for intelligent conversations and vision analysis. Compatible with OpenAI models—plug in your API key for seamless use.  
+Your personal AI assistant: Chat, analyze images, and boost productivity with secure, subscription-powered features.  
+Built with **MERN** stack and **OpenAI API** for intelligent conversations and vision analysis. Compatible with **OpenAI models**—plug in your **API** key for seamless use.  
 
-**Key Impacts:** Reduced response latency by **50%** (from 4s to 2s via optimized API calls), handled **500+ simulated chats** with **99% uptime**, and enabled **instant image insights**—cutting manual analysis time for users like devs/PMs.
+<h3>⚡ Key Impacts:</h3>
+
+| Metric | Achievement |
+|--------|-------------|
+| **Response Latency** | Reduced by **50%** (4s → 2s via optimized API calls) |
+| **Chat Capacity** | Handled **500+ simulated chats** |
+| **Uptime** | Maintained **99% uptime** |
+| **Image Analysis** | **Instant image insights**—cutting manual analysis time for devs/PMs |
+
+
 
 Live Demo: [Coming Soon] 
 
@@ -77,7 +86,7 @@ This is a fullstack MERN app. Assuming monorepo setup (frontend in root or /clie
    ```
 2. Install dependencies:
    ```bash
-   npm install  # for frontend (React/Vite)
+   npm install 
    ```
    **Same for separate backend**
 4. Set environment variables (create .env from .env.example):
