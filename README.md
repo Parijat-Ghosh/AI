@@ -48,6 +48,9 @@ Everyday tasks like summarizing articles, planning projects, or analyzing visual
 ![Chat Interface](screenshots/chat-interface.png)  
 *Main chat view with greeting, prompt suggestions, and message input.*
 
+![Chat History](screenshots/writing-code.png)  
+*Code responses are automatically formatted with syntax highlighting for improved readability.*
+
 ![Chat History](screenshots/chat-history.png)  
 *Sidebar showing conversation history with delete options.*
 
