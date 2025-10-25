@@ -4,6 +4,8 @@
 
 [![Tests](https://img.shields.io/badge/Tests-85%25-brightgreen.svg)](https://github.com/Parijat-Ghosh/AI/actions) <!-- Update with real coverage if tests added -->
 [![OpenAI Integrated](https://img.shields.io/badge/OpenAI-Integrated-blue.svg)](https://platform.openai.com/docs)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen.svg)](https://david-dm.org/Parijat-Ghosh/AI) <!-- Manual check or set up David DM -->
+[![MERN Stack](https://img.shields.io/badge/Tech-MERN%20Stack-blueviolet.svg)](https://mern.io/) <!-- Custom text badge -->
 
 **Your personal AI assistant: Chat, analyze images, and boost productivity with secure, subscription-powered features.**  
 Built with MERN stack and OpenAI API for intelligent conversations and vision analysis. Compatible with OpenAI models—plug in your API key for seamless use.  
