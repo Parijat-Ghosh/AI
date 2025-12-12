@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI Personal Assistant: Fullstack AI Chatbot with OpenAI Integration 🚀
+# AI Personal Assistant: Fullstack AI Assistant with OpenAI Integration 🚀
 
 [![Tests](https://img.shields.io/badge/Tests-85%25-brightgreen.svg)](https://github.com/Parijat-Ghosh/AI/actions) <!-- Update with real coverage if tests added -->
 [![OpenAI Integrated](https://img.shields.io/badge/OpenAI-Integrated-blue.svg)](https://platform.openai.com/docs)
