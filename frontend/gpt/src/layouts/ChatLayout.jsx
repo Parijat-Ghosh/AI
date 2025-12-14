@@ -1,21 +1,3 @@
-// import React from "react";
-// import Sidebar from "../components/Sidebar";
-
-// function ChatLayout({ children }) {
-//   return (
-//     <div className="min-h-screen bg-black text-white flex relative overflow-hidden">
-//       {/* Sidebar */}
-//       <Sidebar />
-
-//       {/* Main Chat Area */}
-//       <div className="flex-1 flex flex-col relative z-10">
-//         {children}
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default ChatLayout;
 
 // src/layouts/ChatLayout.jsx
 import React from "react";
